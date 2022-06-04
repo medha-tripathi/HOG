@@ -88,7 +88,6 @@
 .container2
 {
     display: flex;
-    background-color: cornflowerblue;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -96,7 +95,6 @@
 .container3
 {
     display: flex;
-    background-color: violet;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -111,7 +109,6 @@
 }
 .container7{
     display: flex;
-    background-color: violet;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
